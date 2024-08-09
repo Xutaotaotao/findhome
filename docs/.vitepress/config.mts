@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "寻家",
   description: "A findhome website",
+  base:'/findhome/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
