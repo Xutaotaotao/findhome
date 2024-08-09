@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /markdown-examples
+      link: /book/section1
     # - theme: alt
     #   text: 下载电子书
     #   link: /api-examples
