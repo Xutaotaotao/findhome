@@ -3,23 +3,27 @@
 layout: home
 
 hero:
-  name: "寻家"
-  text: "链接与家相关的信息"
-  tagline: 一个有温度的网站
+  name: "城市租房宝典"
+  text:  "找房不再难，生活更简单。"
+  tagline: 智慧租房，舒适生活从此开始。
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 开始阅读
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    # - theme: alt
+    #   text: 下载电子书
+    #   link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🌟
+    title: 多平台整合
+    details: 汇集各类租房平台和地方网站
+  - icon: 📚
+    title: 租房线索发布
+    details: 出租方和求租方信息整合
+  - icon: 🏠
+    title: 保障性住房展示
+    details: 展示城中村和政府保障性租房项目
+  
 ---
 
